@@ -9,5 +9,5 @@ https://course.fullstackdeeplearning.com
 https://github.com/alirezadir/Production-Level-Deep-Learning
 
 ## AI summer - Deep-Learning-In-Production Course
-https://theaisummer.com
+https://theaisummer.com /
 https://github.com/The-AI-Summer/Deep-Learning-In-Production
