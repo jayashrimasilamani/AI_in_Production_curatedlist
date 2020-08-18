@@ -1,4 +1,4 @@
-# AI_in_Production_curatedlist
+# AI in Production Curated List
 
 
 ## Full Stack Deep Learning : 
