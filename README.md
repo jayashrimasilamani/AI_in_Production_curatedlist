@@ -16,3 +16,5 @@ https://github.com/alirezadir/Production-Level-Deep-Learning
 * https://medium.com/@sonusharma.mnnit/building-a-microservice-in-python-ff009da83dac
 * https://dev.to/paurakhsharma/microservice-in-python-using-fastapi-24cc
 
+### Python microservices - github
+* https://github.com/python-microservices
